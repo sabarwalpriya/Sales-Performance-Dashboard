@@ -1,8 +1,4 @@
 # Sales-Performance-Dashboard
-Power BI dashboard to track sales KPIs with advanced DAX and SQL integration.
-
-# Sales Performance Dashboard
-
 ## 📊 Overview
 An interactive Power BI dashboard that tracks sales KPIs, regional performance, and customer trends.
 
